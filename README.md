@@ -63,9 +63,5 @@ java -cp build/classes view.Login
 
 *These are demo credentials for testing only.*
 
-## Screenshots
-_Add screenshots here: login screen, manager panel, menu / cart._
-<!-- ![Login](screenshots/login.png) -->
-
 ## Author
-**Dhanu**, HND Computing & Software Engineering, ICBT Campus Kandy
+**Guruprashath**, HND Computing & Software Engineering, ICBT Campus Kandy
