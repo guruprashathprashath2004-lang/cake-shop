@@ -1,0 +1,33 @@
+# Sweet Cupcake Shop (Java - NetBeans / Ant)
+
+# ---------- Build output ----------
+build/
+dist/
+*.class
+*.war
+
+# ---------- NetBeans local files (contain your PC paths) ----------
+nbproject/private/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# ---------- Files the app generates while running ----------
+Cart.txt
+Temp_*.txt
+
+# ---------- Other IDEs ----------
+.idea/
+*.iml
+.vscode/
+
+# ---------- Logs / archives ----------
+*.log
+*.zip
+*.rar
+
+# ---------- OS junk ----------
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,20 @@
+Gingerbread|Seasonal Specials|Small|10|200.0
+Red Velvet|Classic Flavors|Large|15|250.00
+Pumpkin Spice|Seasonal Specials|Medium|12|210.00
+GF Vanilla|Gluten-Free|Small|22|220.00
+Dark Choco Dream|Chocolate Lovers|Large|14|270.00
+Berry Blast|Fruity Fiesta|Medium|12|230.00
+Chocolate|Classic Flavors|Medium|25|220.00
+Rainbow Surprise|Custom Orders|Medium|9|280.00
+Mini Vanilla|Mini Bites|Small|30|150.00
+Hazelnut Heaven|Nutty Delights|Large|10|260.00
+Eggnog|Seasonal Specials|Large|8|260.00
+Almond Crunch|Nutty Delights|Medium|16|240.00
+Custom Chocolate|Custom Orders|Large|10|300.00
+Vanilla|Classic Flavors|Small|20|180.00
+Triple Choco|Chocolate Lovers|Medium|10|250.00
+GF Chocolate|Gluten-Free|Small|20|230.00
+Strawberry|Classic Flavors|Small|18|190.00
+Mango Tango|Fruity Fiesta|Small|15|210.00
+Peppermint|Seasonal Specials|Small|14|200.00
+Birthday Special|Custom Orders|Large|7|350.00

@@ -1,0 +1,34 @@
+Dhanush|Red Velvet|2|250.0|500.0
+Sadu|Mango Tango|3|210.0|630.0
+Ravi|Hazelnut Heaven|1|260.0|260.0
+Nila|Strawberry|4|190.0|760.0
+Vijay|Pumpkin Spice|2|210.0|420.0
+Aathi|GF Vanilla|3|220.0|660.0
+Priya|Triple Choco|5|250.0|1250.0
+Suren|Vanilla|2|180.0|360.0
+Anu|Dark Choco Dream|1|270.0|270.0
+Siva|Eggnog|3|260.0|780.0
+Meena|GF Chocolate|2|230.0|460.0
+Bala|Mini Vanilla|6|150.0|900.0
+Arjun|Berry Blast|3|230.0|690.0
+Deepa|Peppermint|2|200.0|400.0
+Jana|Rainbow Surprise|4|280.0|1120.0
+Karthi|Almond Crunch|2|240.0|480.0
+Renu|Custom Chocolate|1|300.0|300.0
+Vino|Pumpkin Spice|5|210.0|1050.0
+Sandya|Birthday Special|2|350.0|700.0
+Nisha|Vanilla|3|180.0|540.0
+Rahul|Gingerbread|2|200.0|400.0
+Keerthi|Mango Tango|1|210.0|210.0
+Lokesh|Dark Choco Dream|3|270.0|810.0
+Swathi|Hazelnut Heaven|2|260.0|520.0
+Gopi|Berry Blast|4|230.0|920.0
+Varun|GF Vanilla|2|220.0|440.0
+Devi|Triple Choco|1|250.0|250.0
+Yogesh|Almond Crunch|3|240.0|720.0
+Hema|Mini Vanilla|5|150.0|750.0
+Kiran|Custom Chocolate|2|300.0|600.0
+Shalini|GF Chocolate|5|230|1150.0
+Sharoash|Dark Choco Dream|4|270|1080.0
+Guru|Rainbow Surprise|2|280|560.0
+

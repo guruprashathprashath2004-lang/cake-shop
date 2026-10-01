@@ -1,0 +1,2 @@
+cashier1|1234
+cashier2|5678
